@@ -1,2 +1,4 @@
 def parrot
-  puts 
+  puts "Squawk"
+  "Squak"
+  return
